@@ -1,0 +1,7 @@
+C:\MyApps\Dev\Tutor\OptionalArguments\OptionalArguments\bin\Debug\OptionalArguments.exe.config
+C:\MyApps\Dev\Tutor\OptionalArguments\OptionalArguments\bin\Debug\OptionalArguments.exe
+C:\MyApps\Dev\Tutor\OptionalArguments\OptionalArguments\bin\Debug\OptionalArguments.pdb
+C:\MyApps\Dev\Tutor\OptionalArguments\OptionalArguments\obj\Debug\OptionalArguments.csprojResolveAssemblyReference.cache
+C:\MyApps\Dev\Tutor\OptionalArguments\OptionalArguments\obj\Debug\OptionalArguments.csproj.CoreCompileInputs.cache
+C:\MyApps\Dev\Tutor\OptionalArguments\OptionalArguments\obj\Debug\OptionalArguments.exe
+C:\MyApps\Dev\Tutor\OptionalArguments\OptionalArguments\obj\Debug\OptionalArguments.pdb
